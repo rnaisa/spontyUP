@@ -41,9 +41,7 @@ The App worked with a Supabase Backend for Authentication and Data Handling usin
 
 ### License Notice
 
-This project is licensed under the [GNU License](LICENCE)
-
 ```plaintext
-GNU Licence
+All rights reserved.
 
 Copyright (c) [2024] [Pascal Thürig, Maisa Melezanovic]
